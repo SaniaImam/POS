@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+.vs/
+**/node_modules/
+**/bin/
+**/obj/
+.env
+.env.*
+!.env.example
